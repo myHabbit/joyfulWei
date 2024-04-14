@@ -1,0 +1,91 @@
+.dark {
+    background: #050505;
+
+    body::-webkit-scrollbar-thumb:hover {
+        background: #050505;
+    }
+
+    body::-webkit-scrollbar-track {
+        background: #050505;
+    }
+
+    body::-webkit-scrollbar-thumb {
+        background: #111111;
+    }
+
+    #app {
+        .head-h1 {
+            color: rgb(255, 255, 255);
+        }
+
+        .note-html .select-none span[data-v-f47c7ef8],
+        .note-html .select-none span[data-v-15115da5] {
+            opacity: 0.4;
+        }
+
+        .self-introduction p {
+            color: #BBBBBB;
+        }
+
+        .nav ul li[data-v-63aeb588] a {
+            color: #E5E7Eb;
+        }
+
+        .nav ul li a:hover {
+            color: rgb(205, 206, 210);
+        }
+
+        .nav .iconfont:hover {
+            color: rgb(205, 206, 210);
+        }
+
+        .icon-nanhai:before {
+            color: #fff;
+        }
+
+        .router-link-active {
+            color: #fff !important;
+        }
+
+        .note-nav ul li a {
+            color: #949393;
+            opacity: 0.3;
+        }
+
+        .note-nav ul li a:hover {
+            color: #828282;
+            opacity: 1;
+        }
+
+        .note-html li a {
+            color: rgb(150, 150, 150);
+        }
+
+        .note-html li a:hover,
+        .note-css li a:hover {
+            color: #fff;
+        }
+
+        .basic-head .basic-swiper .basic ul li h3 {
+            color: rgb(255, 255, 255);
+        }
+
+        .basic-head .basic-swiper .basic ul li span {
+            color: #BBBBBB;
+        }
+
+        .note-vue .content .item a[data-v-d50b5343],
+        .note-vue .content .item strong[data-v-d50b5343],
+        .note-vue .content .item span[data-v-d50b5343] {
+            color: #fff;
+        }
+
+        .note-vue .content .item ul li[data-v-d50b5343]:hover::before {
+            content: '';
+            background-color: #8881;
+            opacity: 1;
+        }
+
+    }
+
+}

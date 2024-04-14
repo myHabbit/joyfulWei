@@ -1,0 +1,13 @@
+{
+    "en": {
+        "JS-Dom": "DOM",
+        "JS-Bom": "BOM",
+        "JSON": "JSON",
+        "Storage": "Storage",
+        "JS-Event": "事件",
+        "JS-Es6": "Es6语法",
+        "JS-Promise": "Promise",
+        "JS-Throttling": "防抖节流",
+        "JS-Copy": "深浅拷贝"
+    }
+}
